@@ -7,15 +7,15 @@ Below are the market addresses of some applications I have developed for referen
 
 ## AppStore
 - [HaberX - App Store](https://apps.apple.com/us/app/haberx-son-dakika-haber/id6469873711)
+- [TakeBring - App Store](https://apps.apple.com/tr/app/takebring/id6467006220)
+- [TakeBring Store - App Store](https://apps.apple.com/tr/app/takebring-store/id6467123909)
+- [TakeBring Driver - App Store](https://apps.apple.com/tr/app/takebring-driver/id6467070635)
 - [CGTN Türk - App Store](https://apps.apple.com/tr/app/cgtn-t%C3%BCrk/id6470801203)
 - [Shop4Hair - App Store](https://apps.apple.com/tr/app/shop4hair/id6468363177)
 - [Shop4Hair Wholesale - App Store](https://apps.apple.com/tr/app/shop4hair-wholesale/id6469170420)
 - [HavaHaber - App Store](https://apps.apple.com/tr/app/havahaber/id6444379151)
 - [ExpressBuchen - App Store](https://apps.apple.com/tr/app/expressbuchen/id6468659952)
 - [Buchen Store - App Store](https://apps.apple.com/tr/app/buchen-store/id6468659987)
-- [TakeBring - App Store](https://apps.apple.com/tr/app/takebring/id6467006220)
-- [TakeBring Store - App Store](https://apps.apple.com/tr/app/takebring-store/id6467123909)
-- [TakeBring Driver - App Store](https://apps.apple.com/tr/app/takebring-driver/id6467070635)
 - [İnfaz - App Store](https://apps.apple.com/tr/app/i-nfaz/id6446791630)
 - [DijitalCV - App Store](https://apps.apple.com/us/app/dijitalcv/id1635049630)
 - [Kahve.com - App Store](https://apps.apple.com/us/app/kahve-com/id1231498765?l=tr&ls=1)
