@@ -68,7 +68,7 @@ Below are the market addresses of some applications I have developed for referen
 - [Mafya - App Store](https://apps.apple.com/tr/app/mafya/id1595671568)
 - [Starwood Yapı Market - App Store](https://apps.apple.com/us/app/starwood-yapi-market/id1487707751?l=tr&ls=1)
 
-## Play Store
+## Play Store
 - [Minersy - Cloud Mining App - Play Store](https://play.google.com/store/apps/details?id=net.appbeta.minersy)
 - [TakeBring Store - Play Store](https://play.google.com/store/apps/details?id=com.takebring.store)
 - [TakeBring Driver - Play Store](https://play.google.com/store/apps/details?id=com.takebring.driver)
