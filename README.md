@@ -3,7 +3,7 @@
 ## [For Web to App Contact](https://www.r10.net/android-ios-alisveris/1730523-ios-android-uygulama-gelistirme-duzenleme-markette-yayinlatma-hizmetleri-appbeta-mobile.html)
 
 # Marketplace
-##Below are the market addresses of some applications I have developed for reference purposes.
+Below are the market addresses of some applications I have developed for reference purposes.
 
 ## AppStore
 - [HaberX - App Store](https://apps.apple.com/us/app/haberx-son-dakika-haber/id6469873711)
